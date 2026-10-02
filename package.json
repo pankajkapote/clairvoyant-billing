@@ -1,0 +1,39 @@
+{
+  "name": "clairvoyant-saas",
+  "version": "1.0.0",
+  "description": "Professional invoicing and CRM platform for Clairvoyant Made Private Limited",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "lucide-react": "^0.383.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.50.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "engines": {
+    "node": "18.17 or higher",
+    "npm": "9.0 or higher"
+  },
+  "keywords": [
+    "invoicing",
+    "crm",
+    "gst",
+    "billing",
+    "saas",
+    "india"
+  ],
+  "author": "Clairvoyant Made Private Limited",
+  "license": "MIT"
+}
