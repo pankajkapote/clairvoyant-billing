@@ -23,7 +23,7 @@
     "eslint-config-next": "^14.0.0"
   },
   "engines": {
-    "node": "18.17 or higher",
+    "node": "24.x or higher",
     "npm": "9.0 or higher"
   },
   "keywords": [
